@@ -217,6 +217,11 @@ title: "Codebook - tidy.txt"
 ```r
 Note: Mean values calculated from the combined data sets  
 UCI HAR Dataset\train\X_train and  
-UCI HAR Dataset\train\X_test, grouped by subject and action, 
+UCI HAR Dataset\train\X_test, grouped by subject and action
+
+More information about the base data set can be found in the following files inside "UCI HAR Dataset"  
+- 'README.txt'  
+- 'features_info.txt'  
+- 'features.txt'  
 ```
 
